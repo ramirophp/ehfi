@@ -1,0 +1,16 @@
+{
+    "name": "rgg78/ehfi",
+    "description": "estructura logica, html e informacion",
+    "type": "project",
+    "require": {
+        "ramirophp/basic-magic": "dev-main"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ramirophp",
+            "email": "ramiro_php@protonmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
