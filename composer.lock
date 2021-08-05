@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ramirophp/basic-magic.git",
-                "reference": "e8ef83bac1e9d485fed11e2e43d6ca19555cf6fd"
+                "reference": "757ef5f08d6a6e866b7a113a64c5fba4998b5b0d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ramirophp/basic-magic/zipball/e8ef83bac1e9d485fed11e2e43d6ca19555cf6fd",
-                "reference": "e8ef83bac1e9d485fed11e2e43d6ca19555cf6fd",
+                "url": "https://api.github.com/repos/ramirophp/basic-magic/zipball/757ef5f08d6a6e866b7a113a64c5fba4998b5b0d",
+                "reference": "757ef5f08d6a6e866b7a113a64c5fba4998b5b0d",
                 "shasum": ""
             },
             "default-branch": true,
@@ -30,7 +30,8 @@
                 "files": [
                     "src/files/helpers_etiqueta.php",
                     "src/files/helpers_atributos.php",
-                    "src/files/helpers_magic.php"
+                    "src/files/helpers_magic.php",
+                    "src/files/helpers_espacios.php"
                 ]
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -48,7 +49,7 @@
                 "issues": "https://github.com/ramirophp/basic-magic/issues",
                 "source": "https://github.com/ramirophp/basic-magic/tree/main"
             },
-            "time": "2021-08-04T22:23:42+00:00"
+            "time": "2021-08-05T05:11:03+00:00"
         }
     ],
     "packages-dev": [],
